@@ -112,5 +112,5 @@ public class Main {
             }
             System.out.println();
         }
-    }
+    } //find if hit dead end, if not set that point true for boolean and if hit again skip and go back to normal code
 }
